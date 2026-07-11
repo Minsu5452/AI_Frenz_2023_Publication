@@ -30,4 +30,4 @@ AAiCON 2023 제2차 실용 인공지능 학술대회에 수록된 SNP 품종 분
 
 - [1위 솔루션 저장소](https://github.com/Minsu5452/genomic-breed-classification)
 - [DACON 대회 페이지](https://dacon.io/competitions/official/236035/overview/description)
-- [AI Frenz](http://aifrenz.org)
+- [AI Frenz](https://aifrenz.org)
